@@ -1,0 +1,14 @@
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\bin\Debug\netcoreapp2.1\appWrk.API.deps.json
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\bin\Debug\netcoreapp2.1\appWrk.API.runtimeconfig.json
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\bin\Debug\netcoreapp2.1\appWrk.API.runtimeconfig.dev.json
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\bin\Debug\netcoreapp2.1\appWrk.API.dll
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.csprojAssemblyReference.cache
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.csproj.CoreCompileInputs.cache
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.RazorAssemblyInfo.cache
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.RazorAssemblyInfo.cs
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.AssemblyInfoInputs.cache
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.AssemblyInfo.cs
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.RazorTargetAssemblyInfo.cache
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\bin\Debug\netcoreapp2.1\appWrk.API.pdb
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.dll
+C:\Users\rao96\source\repos\appWrk.API\appWrk.API\obj\Debug\netcoreapp2.1\appWrk.API.pdb
